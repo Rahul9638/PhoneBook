@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518763490304",
+    "project_id": "phonebook-98486",
+    "storage_bucket": "phonebook-98486.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518763490304:android:cc8926eef762473b9b7ce5",
+        "android_client_info": {
+          "package_name": "com.example.phonebookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWvtdwRVrkZmLTzb0G-jCbtJ-K5CLP_xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
